@@ -5,6 +5,24 @@
     <title>Document</title>
 </head>
 </body>
-    
+<!-- Tema1 de: Paulo Diego Nájera Monreal -->
+<hgroup> 
+    <h1>Boxeo</h1>
+    <h3>Saltar la  cuerda</h3>
+    <h3>Caletamiento de musculos</h3>
+    <h3>Sparring</h3>
+</hgroup>
+<p>El boxeo es un deporte de contacto en el que dos oponentes luchan usando solamente sus manos cerradas con guantes, es un deporte en el cual aprendes a defenderse y también practicar box mejora tu salud cardiovascular, aumenta tu resistencia física </p>
+<!-- fin tema 1 -->
+
+<!-- Tema2 de: Paulo Diego Nájera Monreal -->
+<hgroup>
+    <h1>Videojuegos</h1>
+    <h3>Generos de los videojuegos</h3>
+    <h3>Tipos de dispositivos</h3>
+    <h3>Avances tecnológicos</h3>
+</hgroup>
+<p>Un videojuego es un juego electrónico en el cual una o varias personas interactúan por medio de un controlador.</p>
+<!-- fin tema2 -->
 </body>
 </html>
