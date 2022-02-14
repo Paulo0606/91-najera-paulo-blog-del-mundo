@@ -1,0 +1,14 @@
+body{  background-color: black; color:floralwhite; }
+p{ color:#ffffff} 
+h1{color:#ffffff}
+h2{ color:#ffffff} 
+h3{ color:#ffffff } 
+h4{ color:#ffffff } 
+label{color:#ffffff} 
+figure{color:#ffffff}
+span{color:#ffffff}
+div{color:#ffffff}
+nav>ul>li{color:yellow}
+.resaltado{color:yellow}
+#titulo_del_blog{ text-align: center;   font-size: 3rem ;}
+article{ color: rgb(44, 43, 43) padding (1.5rem) }
