@@ -8,7 +8,12 @@ label{color:#ffffff}
 figure{color:#ffffff}
 span{color:#ffffff}
 div{color:#ffffff}
-nav>ul>li{color:yellow}
+nav>ul>li{color:yellow; list-style: none; text-decoration: none;}
+a{ text-decoration: none;}
 .resaltado{color:yellow}
 #titulo_del_blog{ text-align: center;   font-size: 3rem ;}
-article{ color: rgb(44, 43, 43) padding (1.5rem) }
+article{ color: rgb(44, 43, 43)  }
+.borde{ padding: 1.5rem; border-bottom: solid 1px #ffffff  }
+.ilustracion{ display:inline; border: solid 4px #ffffff}
+#footer_blog{ margin: 2rem }
+.ilustracion figcaption{margin-top: 1rem; margin-left: 1rem; font-style: italic;}
